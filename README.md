@@ -26,3 +26,9 @@ https://img.shields.io/badge/Tailwind_CSS-3.3+-06B6D4?logo=tailwindcss&logoColor
 
 📦 Installation & Setup
 Clone the repository
+``` bash
+git clone https://github.com/vikasyadavvvv/BOOKSHELF.git
+cd BOOKSHELF
+npm install
+npm run dev
+```
