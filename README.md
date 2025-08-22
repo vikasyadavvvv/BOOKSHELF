@@ -8,7 +8,7 @@
 
 
 <img width="1877" height="985" alt="image" src="https://github.com/user-attachments/assets/80a5aaef-b8f4-4126-9f51-5a49949be3ad" />
-
+   
 ### ✨ Features
 - 🔍 Search Books: Find books by title or author
 - 📖 Book Details: View comprehensive details on a dedicated page
